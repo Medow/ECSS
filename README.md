@@ -1,2 +1,1 @@
-# ECSS
-EC  Script Simulator
+EthCrash.io Script Simulator
